@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SumGh007
+- 👋 Hi, I’m Suman.
 
 <!---
 SumGh007/SumGh007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
